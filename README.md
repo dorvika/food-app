@@ -17,6 +17,10 @@ Used technologies:
 - Firebase
 - Tailwind
 
+Quick demo:
+
+![](https://github.com/dorvika/food-app/blob/main/food-app.gif)
+
 ## Run application
 
 1. Open a new bash shell
